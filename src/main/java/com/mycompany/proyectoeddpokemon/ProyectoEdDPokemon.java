@@ -6,7 +6,7 @@ package com.mycompany.proyectoeddpokemon;
 
 /**
  *
- * @author Manuel
+ * @author Manuel Antonio Sánchez Venegas
  */
 public class ProyectoEdDPokemon {
 
