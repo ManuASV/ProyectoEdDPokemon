@@ -5,8 +5,9 @@
 package com.mycompany.proyectoeddpokemon;
 
 /**
- *
+ *         Proyecto Estructuras de Datos Pokemon
  * @author Manuel Antonio Sánchez Venegas
+ * 
  */
 public class ProyectoEdDPokemon {
 
