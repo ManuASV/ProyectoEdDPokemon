@@ -6,7 +6,7 @@ package com.mycompany.proyectoeddpokemon;
 
 /**
  *
- * @author Manu
+ * @author Manuel
  */
 public class ProyectoEdDPokemon {
 
